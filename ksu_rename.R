@@ -18,4 +18,3 @@ ksu.rename <- function(x){
   x <- gsub('(KS\\d+H\\d+)(-\\d+.*)', '\\1', x)
   return(x)
 }
-sdkhfdsla
